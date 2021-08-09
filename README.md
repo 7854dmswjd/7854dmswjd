@@ -3,9 +3,7 @@
 - 이름 :  서은정
 - 나이 : 24세
 - 성별 : 여
-- 거주지 : 서울시 동작구
 - MBTI : ENFP-T
-- 좋아하는 것 : 변화가 지속적으로 있는 것
-- 싫어하는 것 : 나태해지는 것
 
+![오예](C:\Users\eunjeong\Desktop\maxresdefault.jpg)
 
